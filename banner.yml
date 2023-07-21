@@ -1,15 +1,9 @@
-title: 
+title: CIXIC
 description: 
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9hK3Excpoabgqv55opSUbjA4ULE2FQpcyid61uDV1eAS2a5Aopr
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/CIXIC_NFTs
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw

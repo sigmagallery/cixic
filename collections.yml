@@ -1,3 +1,4 @@
 collections:
 - label: Ergo Voids
   data: ergovoids.yml
+  format: gif

@@ -105,16 +105,19 @@ nfts:
   description: 'Ergo Voids #17 - Geometry Void. From the Ergo Voids series by CIXIC.'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibgu3ndcy7zno5oacwcddb4b36szeo55fmjvivbscvx6kmpgjxnee
+  format: gif
 - tokenId: 30206d3bf12692b4a02d131ce142e53755ae59e30cb71c3ff46d3aee94810239
   name: 'Ergo Voids #18 - Red Triangulation - By CIXIC'
   description: 'Ergo Voids #18 - Red Triangulation. From the Ergo Voids series by CIXIC.'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeichml4rcmyntgaishhgwzelgtqz5me33nwrdoqttxcvzxqox3hj6e
+  format: gif
 - tokenId: 15eb20504ca3fd4717e79149ab24f9db5caa31ebc7495b701c62f4af2c4ad9a7
   name: 'Ergo Voids #19 - Blue/Red Fusion - By CIXIC'
   description: 'Ergo Voids #19 - Blue/Red Fusion. From the Ergo Voids series by CIXIC.'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeie6zowexqxzfccnm746f2ztcmmwgv2u3iatws4gojohwhr2i2toxm
+  format: gif
 - tokenId: b86b87b61f22d59bceaaeb4ca61912e46d0edc7b620f68346e3591195a757f84
   name: 'Ergo Voids #20 - Type III Civilization - By CIXIC'
   description: >-
@@ -148,6 +151,7 @@ nfts:
   description: 'Ergo Voids #24 - Trigonometry. From the Ergo Voids series by CIXIC.'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiazsueznmtdqomyfypnrspkfb66yf3djsr26pxvi5ufcwccc4iewm
+  format: gif
 - tokenId: df367b5d1baa8d978b19defa5991d950556a8043f9a2484e1cd8503e5027cbcc
   name: 'Ergo Voids #25 - Gravity Well - By CIXIC'
   description: >-
@@ -167,6 +171,7 @@ nfts:
   description: 'Ergo Voids #27 - Pastel Diamond. From the Ergo Voids series by CIXIC.'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiclurtvs6bj6fl63v65y3l2lguqq6ivdjnnr5tf2ila3a5da55q5m
+  format: gif
 - tokenId: 7dc971d020c1c527dc8163ba64d9a180e444de568832a415ac1141047adef052
   name: 'Ergo Voids #28 - Kuiper Belt - By CIXIC'
   description: >-
